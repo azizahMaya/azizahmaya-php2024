@@ -1,1 +1,1 @@
-hjgjhgj
+ini adalah index
