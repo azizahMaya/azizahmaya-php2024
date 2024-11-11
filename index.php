@@ -10,25 +10,31 @@
     <div class="container mt-5">
         <div class="row justify-content-md-center">
             <div class="col-md-4">
-                <h4 class="text-center">LOGIN SISWA</h4>
+                <center><h4>LOGIN SISWA</h4></center>
                 <div class="card">
                     <div class="card-header">
-                        <img src="logo spp.jpg" width="100%">
+                            <!--logo-->
+                            <center><img src="img/logo.jpg" width="20%"></center>
                     </div>
                     <div class="card-body">
                         <from acation="proses-login-siswa.php" methode="post">
                             <div class="from-group mb-2">
-                                <tabel>NISN</table>
-                                <imput type="number" name="nisn" class="from-control"placeholder="Masukan
-                                NIS anda.." required>
-                        </div>
+                            <center><label>NISN</label>
+                                <imput type="number" name="nisn" class="from-control"placeholder="Masukan NISN anda.." required>
+                                </center>
+                            </div>
                         <div class="card-body">
                         <from acation="proses-login-siswa.php" methode="post">
                             <div class="from-group mb-2">
-                                <tabel>NIS</table>
-                                <imput type="number" name="nis" class="from-control"placeholder="Masukan
-                                NIS anda.." required>
-                        </div>
+                            <center><label>NIS</label>
+                                <imput type="number" name="nis" class="from-control"placeholder="Masukan NIS anda.." required>
+                                </center>
+                            </div>
+                        <div class="from group mb-2">
+                                <center><button type="submit" class"btn btn-primary"> LOGIN </button></center>
+                            </div>
+                          <center><a href="index2.php">Login sebagai administrator/petugas </a></center>
+                            
                 </from>
 </div>
 </div>
