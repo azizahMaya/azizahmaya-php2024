@@ -20,14 +20,14 @@
                         <from acation="proses-login-siswa.php" methode="post">
                             <div class="from-group mb-2">
                             <center><label>NISN</label>
-                                <imput type="number" name="nisn" class="from-control"placeholder="Masukan NISN anda.." required>
+                                <input type="number" name="nisn" class="from-control"placeholder="Masukan NISN anda.." required>
                                 </center>
                             </div>
                         <div class="card-body">
                         <from acation="proses-login-siswa.php" methode="post">
                             <div class="from-group mb-2">
                             <center><label>NIS</label>
-                                <imput type="number" name="nis" class="from-control"placeholder="Masukan NIS anda.." required>
+                                <input type="number" name="nis" class="from-control"placeholder="Masukan NIS anda.." required>
                                 </center>
                             </div>
                         <div class="from group mb-2">
